@@ -28,7 +28,7 @@ namespace HelloWorld
 
             // Associate the MigraDoc document with a renderer.
             pdfRenderer.Document = document;
-
+ 
             // Layout and render document to PDF.
             pdfRenderer.RenderDocument();
 

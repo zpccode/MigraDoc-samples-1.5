@@ -1,4 +1,4 @@
-namespace HelloMigraDoc
+﻿namespace HelloMigraDoc
 {
     /// <summary>
     /// Some filler text created with Adobe InDesign.
